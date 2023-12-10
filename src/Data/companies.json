@@ -1,5 +1,6 @@
 [
 	{
+		"id": 0,
 		"name": "Playbake",
 		"city": "Malmö",
 		"quote": "Highly recommed this place",
@@ -9,6 +10,7 @@
 		"contact": "playbake.se"
 	},
 	{
+		"id": 1,
 		"name": "liptha's cake butik ",
 		"city": "Lund",
 		"quote": "Tasty and delicious with perfect sugar",
@@ -18,6 +20,7 @@
 		"contact": "fb:Liptha's cake butik"
 	},
 	{
+		"id": 2,
 		"name": "CocoDrip",
 		"city": "Malmö",
 		"quote": "Love! Always buy from there",
@@ -27,6 +30,7 @@
 		"contact": "cocodrip.se"
 	},
 	{
+		"id": 3,
 		"name": "the cakery",
 		"city": "Malmö",
 		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -36,6 +40,7 @@
 		"contact": "ig: thecakery1"
 	},
 	{
+		"id": 4,
 		"name": "patisserie.elfie",
 		"city": "Arlöv",
 		"quote": "Jess creations are amazing",
@@ -45,6 +50,7 @@
 		"contact": "ig: patisserie.elfie"
 	},
 	{
+		"id": 5,
 		"name": "beans & tales café Malmö",
 		"city": "Malmö",
 		"quote": "veagn and gluten-free options",
@@ -54,6 +60,7 @@
 		"contact": "ig:beansandtales"
 	},
 	{
+		"id": 6,
 		"name": "Bomm Bolo Konfektyr",
 		"city": "Svedala",
 		"quote": "Cakes are from heaven",
@@ -63,6 +70,7 @@
 		"contact": "ig:bommbolo"
 	},
 	{
+		"id": 7,
 		"name": "dinTårta",
 		"city": "All",
 		"quote": "So nice",
@@ -72,6 +80,7 @@
 		"contact": "dintarta.se"
 	},
 	{
+		"id": 8,
 		"name": "sweet box & smash cake",
 		"city": "Malmö",
 		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -81,6 +90,7 @@
 		"contact": "IG:sweet_surprise_malmo"
 	},
 	{
+		"id": 9,
 		"name": "baked by ammna",
 		"city": "Malmö",
 		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -90,6 +100,7 @@
 		"contact": "bakedbyammna.com"
 	},
 	{
+		"id": 10,
 		"name": "cake to take",
 		"city": "Arlöv",
 		"quote": "Really tasty and beautiful cake ",
@@ -99,6 +110,7 @@
 		"contact": "ig:caketotakesweden"
 	},
 	{
+		"id": 11,
 		"name": "Delights",
 		"city": "Lund",
 		"quote": "makes amazing cakes",
@@ -108,6 +120,7 @@
 		"contact": "ig:delightslund"
 	},
 	{
+		"id": 12,
 		"name": "Lina veber cake",
 		"city": "Malmö",
 		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
