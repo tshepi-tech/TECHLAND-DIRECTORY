@@ -1,0 +1,119 @@
+[
+	{
+		"name": "Playbake",
+		"city": "Malmö",
+		"quote": "Highly recommed this place",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "playbake.se"
+	},
+	{
+		"name": "liptha's cake butik ",
+		"city": "Lund",
+		"quote": "Tasty and delicious with perfect sugar",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "fb:Liptha's cake butik"
+	},
+	{
+		"name": "CocoDrip",
+		"city": "Malmö",
+		"quote": "Love! Always buy from there",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "cocodrip.se"
+	},
+	{
+		"name": "the cakery",
+		"city": "Malmö",
+		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "ig: thecakery1"
+	},
+	{
+		"name": "patisserie.elfie",
+		"city": "Arlöv",
+		"quote": "Jess creations are amazing",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "ig: patisserie.elfie"
+	},
+	{
+		"name": "beans & tales café Malmö",
+		"city": "Malmö",
+		"quote": "veagn and gluten-free options",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "ig:beansandtales"
+	},
+	{
+		"name": "Bomm Bolo Konfektyr",
+		"city": "Svedala",
+		"quote": "Cakes are from heaven",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "ig:bommbolo"
+	},
+	{
+		"name": "dinTårta",
+		"city": "All",
+		"quote": "So nice",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "dintarta.se"
+	},
+	{
+		"name": "sweet box & smash cake",
+		"city": "Malmö",
+		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "IG:sweet_surprise_malmo"
+	},
+	{
+		"name": "baked by ammna",
+		"city": "Malmö",
+		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "bakedbyammna.com"
+	},
+	{
+		"name": "cake to take",
+		"city": "Arlöv",
+		"quote": "Really tasty and beautiful cake ",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "ig:caketotakesweden"
+	},
+	{
+		"name": "Delights",
+		"city": "Lund",
+		"quote": "makes amazing cakes",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "ig:delightslund"
+	},
+	{
+		"name": "Lina veber cake",
+		"city": "Malmö",
+		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"contact": "linavebercake.se"
+	}
+]
