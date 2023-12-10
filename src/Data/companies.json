@@ -11,7 +11,7 @@
 	},
 	{
 		"id": 1,
-		"name": "liptha's cake butik ",
+		"name": "Liptha's cake butik ",
 		"city": "Lund",
 		"quote": "Tasty and delicious with perfect sugar",
 		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": 3,
-		"name": "the cakery",
+		"name": "The cakery",
 		"city": "Malmö",
 		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -41,7 +41,7 @@
 	},
 	{
 		"id": 4,
-		"name": "patisserie.elfie",
+		"name": "Patisserie.elfie",
 		"city": "Arlöv",
 		"quote": "Jess creations are amazing",
 		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -51,9 +51,9 @@
 	},
 	{
 		"id": 5,
-		"name": "beans & tales café Malmö",
+		"name": "Beans & Tales café Malmö",
 		"city": "Malmö",
-		"quote": "veagn and gluten-free options",
+		"quote": "vegan and gluten-free options",
 		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 		"image2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 		"image3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -81,7 +81,7 @@
 	},
 	{
 		"id": 8,
-		"name": "sweet box & smash cake",
+		"name": "Sweet box & smash cake",
 		"city": "Malmö",
 		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -91,7 +91,7 @@
 	},
 	{
 		"id": 9,
-		"name": "baked by ammna",
+		"name": "Baked by ammna",
 		"city": "Malmö",
 		"quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -101,7 +101,7 @@
 	},
 	{
 		"id": 10,
-		"name": "cake to take",
+		"name": "Cake to take",
 		"city": "Arlöv",
 		"quote": "Really tasty and beautiful cake ",
 		"image1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
