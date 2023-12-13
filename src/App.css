@@ -8,7 +8,13 @@
 	--rosy-brown: hsla(355, 20%, 67%, 1);
 	--outer-space: hsla(193, 18%, 26%, 1);
 }
-
+h1 {
+	padding-inline-start: 2.5rem;
+}
+.filter_group {
+	height: 60px;
+	background-color: var(--cadet-gray);
+}
 .company_card {
 	border-bottom: 0.1rem solid var(--cadet-gray);
 }
