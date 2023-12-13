@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400&family=Prata&display=swap");
+
+:root {
+	--pumpkin: #ff6700ff;
+	--cadet-gray: #a5abafff;
+	--spring-green: #5ef38cff;
+	--olivine: hsla(96, 30%, 69%, 0.5);
+	--rosy-brown: hsla(355, 20%, 67%, 1);
+	--outer-space: hsla(193, 18%, 26%, 1);
+}
+
+.company_card {
+	border-bottom: 0.1rem solid var(--cadet-gray);
+}
+
+.image_title {
+	display: flex;
+	gap: 1.25rem;
+	margin-top: 1rem;
+	font-family: Prata, sans-serif;
+}
+.quote_contact {
+	display: flex;
+	margin-bottom: 0.5rem;
+}
+img {
+	max-width: 12%;
+	align-self: center;
+}
+button {
+	margin-left: auto;
+	border: none;
+	text-align: center;
+	border-radius: 1rem;
+	max-height: 2rem;
+	padding: 0.625rem 1.25rem;
+	display: inline-block;
+	align-self: center;
+	background-color: var(--olivine);
+}
+.name {
+	margin: 0;
+	font-size: 1rem;
+}
+.city {
+	margin: 0;
+	font-size: 0.8rem;
+}
+.quote {
+	margin-bottom: 0.5rem;
+	color: var(--outer-space);
+	font-family: Montserrat, sans-serif;
+	font-style: italic;
+	font-size: small;
+}
