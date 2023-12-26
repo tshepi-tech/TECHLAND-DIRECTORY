@@ -12,7 +12,7 @@ export default function CompanyItem({ company }) {
 				</div>
 			</div>
 			<div className="quote_contact">
-				<p className="quote">{quote}</p>
+				<p className="quote">"{quote}"</p>
 				<button>Contact</button>
 			</div>
 		</div>
