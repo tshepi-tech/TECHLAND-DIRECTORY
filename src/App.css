@@ -44,7 +44,9 @@ img {
 	max-width: 12%;
 	align-self: center;
 }
-button {
+a {
+	text-decoration: none;
+	color: var(--outer-space);
 	margin-left: auto;
 	border: none;
 	text-align: center;
