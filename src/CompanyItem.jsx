@@ -1,7 +1,7 @@
 import image from "./Assets/starmap.png";
 
 export default function CompanyItem({ company }) {
-	const { name, city, quote } = company;
+	const { name, city, quote, contact } = company;
 	return (
 		<div className="company_card">
 			<div className="image_title">
@@ -13,7 +13,9 @@ export default function CompanyItem({ company }) {
 			</div>
 			<div className="quote_contact">
 				<p className="quote">"{quote}"</p>
-				<button>Contact</button>
+				<a href={`${contact}`} target="_blank">
+					Contact
+				</a>
 			</div>
 		</div>
 	);
