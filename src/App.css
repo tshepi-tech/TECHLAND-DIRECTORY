@@ -11,9 +11,20 @@
 h1 {
 	padding-inline-start: 2.5rem;
 }
+select {
+	width: 100%;
+	font-size: 1.15rem;
+	padding: 0.675em 6em 0.675em 1em;
+	background-color: #fff;
+	border: 1px solid #caced1;
+	border-radius: 0.25rem;
+	color: var(--outer-space);
+	cursor: pointer;
+}
 .filter_group {
-	height: 60px;
+	min-width: 22rem;
 	background-color: var(--cadet-gray);
+	position: relative;
 }
 .company_card {
 	border-bottom: 0.1rem solid var(--cadet-gray);
