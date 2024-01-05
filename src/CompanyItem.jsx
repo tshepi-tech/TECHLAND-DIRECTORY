@@ -1,11 +1,18 @@
-import image from "./Assets/starmap.png";
+import placeholder from "./Assets/starmap.png";
 
 export default function CompanyItem({ company }) {
-	const { name, city, quote, contact } = company;
+	const { name, city, quote, contact, image } = company;
+	let thumbnail = image;
+	try {
+		thumbnail = require(`./Assets/${image}`);
+	} catch {
+		thumbnail = placeholder;
+	}
+	console.log(thumbnail);
 	return (
 		<div className="company_card">
 			<div className="image_title">
-				<img src={image}></img>
+				<img src={thumbnail}></img>
 				<div className="title">
 					<p className="name">{name}</p>
 					<p className="city">{city}</p>
