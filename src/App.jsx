@@ -27,7 +27,6 @@ export default function App() {
 			) : (
 				<City companies={companies} value={value} />
 			)}
-			;
 		</div>
 	);
 }
